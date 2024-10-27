@@ -2,7 +2,7 @@
 
 [English Version](readme_en.md)
 
-本教程参考 [skyblog](https://www.skyblogs.xyz/index.php/2023-01-30/%E6%8F%90%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8rax3000q%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84ssh%E5%B9%B6%E5%AE%89%E8%A3%85luci/) 、[恩山 imlk](https://www.right.com.cn/forum/thread-8111244-1-1.html) ，OpenWrt 固件由 [NWrt](https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8312936&highlight=rax3000) 团队编译，固件基于 [Q-WRT](https://github.com/Q-WRT/Q-WRT)。
+本教程参考 [skyblog](https://www.skyblogs.xyz/index.php/2023-01-30/%E6%8F%90%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8rax3000q%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84ssh%E5%B9%B6%E5%AE%89%E8%A3%85luci/) 、[恩山 imlk](https://www.right.com.cn/forum/thread-8111244-1-1.html) ，OpenWrt 固件由 [NWrt](https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8312936&highlight=rax3000) 团队编译，固件基于 [QSDK](https://github.com/everything411/qsdk) 项目编译。
 
 ## 一、取得权限
 
